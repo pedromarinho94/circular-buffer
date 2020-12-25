@@ -8,8 +8,6 @@
 #ifndef CIRCULAR_BUFFER_H_
 #define CIRCULAR_BUFFER_H_
 
-#include <DAVE.h>
-
 #define BUFFER_MAX 1024
 
 /**

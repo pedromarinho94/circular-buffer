@@ -1,2 +1,2 @@
 # circular-buffer
-    -Implementation of a simple circular buffer used for UART2CAN and CAN2UART data transmission
+    -Implementation of a simple and clean circular buffer useful for asynchronous data transmission (i.e. CAN<->UART Device Driver)
